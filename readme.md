@@ -14,3 +14,8 @@
 * 1/2 egg
 * Oil and Karam
 
+## Panner Dosa
+* Dosa batter
+* Panner
+* Carrot and beetrot
+* Ghee
