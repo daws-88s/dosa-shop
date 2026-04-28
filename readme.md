@@ -14,3 +14,5 @@
 * 1/2 egg
 * Oil and Karam
 
+## Neyyi Karam Dosa
+* Dosa batter
